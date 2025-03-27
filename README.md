@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaushik105
-- 👀 I’m interested in DSA and C++ 
+- 👀 I’m interested in Web Development and Computer Science
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on CS50
 - 📫 How to reach me storakaushik001@gmail.com
