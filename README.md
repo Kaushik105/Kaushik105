@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on CS50
 - 📫 How to reach me storakaushik001@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 Kaushik105/Kaushik105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
