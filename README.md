@@ -1,26 +1,101 @@
-<h1 align="center">Hi 👋, I'm Kaushik Chowdhury</h1>
-<h3 align="center">A non-technical person from tech background.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushik105&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik105" /> </p>
+<!-- HERO TYPING BANNER -->
+<a href="https://github.com/Kaushik105">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=%3E_Kaushik+Chowdhury;%3E_Full+Stack+Developer+%26+Systems+Builder;%3E_Crafting+High-Performance+Web+Apps;%3E_Breaking+code+to+build+better+architecture..." alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushik105" alt="kaushik105" /></a> </p>
-
-- 🌱 I’m currently learning **NextJS**
-
-- 📫 How to reach me **kaushik.tsx@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kaushik16756470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushik16756470" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaushik-chowdhury105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushik-chowdhury105" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/System-ONLINE-00ff66?style=for-the-badge&logo=gnubash&logoColor=black" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Kaushik105&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/Kaushik105?label=FOLLOWERS&style=for-the-badge&color=8A2BE2" alt="Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://linkedin.com/in/kaushik-chowdhury105" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/kaushik16756470" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:kaushik.tsx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kaushik.tsx%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushik105&show_icons=true&locale=en&layout=compact" alt="kaushik105" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushik105&show_icons=true&locale=en" alt="kaushik105" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushik105&" alt="kaushik105" /></p>
+### 🖥️ `kaushik@system:~$ cat profile.json`
 
+```json
+{
+  "developer": "Kaushik Chowdhury",
+  "location": "India 🇮🇳",
+  "archetype": "Full-Stack Engineer & Problem Solver",
+  "core_focus": ["Full-Stack Architecture", "Next.js & React Ecosystem", "Modern Distributed Systems"],
+  "learning": ["Advanced Distributed Systems", "Agentic AI workflows"],
+  "philosophy": "Turn complex backend logic into effortless user experiences"
+}
+```
+
+---
+
+### ⚡ Tech Arsenal
+
+<div align="center">
+
+#### **Languages & Core**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,cpp,c,html,css" alt="Languages" />
+</a>
+
+#### **Frameworks & Libraries**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" alt="Frameworks" />
+</a>
+
+#### **Databases, Cloud & DevOps**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,appwrite,git,linux" alt="Tools" />
+</a>
+
+</div>
+
+---
+
+### 📊 System Telemetry & Metrics
+
+<div align="center">
+
+<!-- LIVE & VERIFIED PROFILE SUMMARY CARDS (Radical Cyberpunk Theme) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaushik105&theme=radical" alt="Kaushik's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaushik105&theme=radical" alt="Top Languages by Commit" />
+</p>
+
+<!-- HIGH-AVAILABILITY STREAK STATS -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kaushik105&theme=radical&hide_border=true&background=141321&stroke=00F0FF&ring=FF007F&fire=00F0FF&currStreakNum=00F0FF" alt="Kaushik's Streak" />
+</p>
+
+</div>
+
+---
+
+### 🐍 Contribution Activity Matrix
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kaushik105/Kaushik105/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <code>echo "Thanks for stopping by! Let's build something epic."</code>
+  <br /><br />
+  <sub>⚡ Built with passion and terminal aesthetics by <b>Kaushik Chowdhury</b> ⚡</sub>
+</div>
